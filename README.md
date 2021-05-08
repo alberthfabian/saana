@@ -4,7 +4,7 @@ Prueba para aplicar al cargo de Desarrollador Frontend
 
 ### Instrucciones para instalación 📋
 
-Descargar una copia del repositorio comprimido en tu maquina local o realiza un clone.
+Descargar una copia del repositorio comprimido en tu maquina local o realiza un git clone.
 
 ```
 git clone git@github.com:alberthfabian/saana.git
@@ -18,16 +18,20 @@ npm install
 
 ## Despliegue 📦
 
-Se genero un APK para instalación en un telefono Android
+
 
 ## Construido con 🛠️
 
-* React Native.
-* CSS
+* React Native
+* Axios
+* Firebase - Firestore (Para la persistencia de los datos, integración con APIs JSON)
+* Firebase - Authentication (Autenticación con correo electónico y contraseña)
+* React Navigation - Paso entre pantallas
+* Contex - Estado Global de la aplicación
 
 ## Autor ✒️
 
-* **Alberh Pérez** - *Proyecto completo de inicio a fin* - [Alberth Pérez](https://github.com/alberthfabian)
+* **Alberh Pérez** - [Alberth Pérez](https://github.com/alberthfabian)
 
 ---
 ⌨️ con ❤️ por [Alberth Pérez](https://github.com/alberthfabian) 😊
