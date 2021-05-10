@@ -21,7 +21,7 @@ npm install
 Se manejaron tres capas
 
 * Capa de presentación, en esta el usuario puede interactuar con la aplicación para ver la información y solicitar datos, en un inicio se encuentra con un Login en el cual debe loguearse, esta es la primer capa con la que interactua.
-* Capa de negocio, aqui manejo la información en un estado global (Contex) para que interacture con la base de datos, es esta capa la responsable de mantener todos los datos organizados y quien hace las solicitudes a los endpoint para proveer la información.
+* Capa de negocio, aqui manejo la información en un estado global (Context) para que interacture con la base de datos, es esta capa la responsable de mantener todos los datos organizados y quien hace las solicitudes a los endpoint para proveer la información.
 * Capa de datos, aqui se separo totalmente siendo Firebase el encargo de mantener los datos protegidos con autenticación para que sea solamente un usuairo logueado el que pueda crear, consultar, eliminar y actualizar la infomración.
 
 Es de aclarar que se separo las responsabilidades en varios componentes para que cada uno sea el encargado de suministrar o de realizar solo lo que le corresponde.
