@@ -40,7 +40,7 @@ Lo que se pretende con esta aplicación es que el usuario pueda crear, consultar
 * El código para crear los endpoint se encuenta en en siguiete enlace https://github.com/alberthfabian/firebase-api
 * Firebase - Authentication (Autenticación con correo electónico y contraseña)
 * React Navigation - Paso entre pantallas
-* Contex - Estado Global de la aplicación
+* Context - Estado Global de la aplicación
 
 ## Autor ✒️
 
